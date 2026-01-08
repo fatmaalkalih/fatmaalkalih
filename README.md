@@ -1,10 +1,12 @@
 ## Hi  I'm Fatma
 
- - Computer Engineering Student
- - I'm currently working on Front-End projects (HTML, CSS, JavaScript)
- - I'm learning Full-Stack Web Development
- - I'm looking to collaborate on web and open-source projects
- - Here you can find my academic and personal projects
+
+- Computer Engineering Student  
+- Currently working on Front-End projects (HTML, CSS, JavaScript)  
+- Learning Full-Stack Web Development  
+- Open to web and open-source collaboration  
+- Here you can find my academic and personal projects
+
 
 <!--
 **fatmaalkalih/fatmaalkalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
